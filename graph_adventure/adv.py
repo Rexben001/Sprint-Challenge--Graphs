@@ -1,6 +1,8 @@
 from room import Room
 from player import Player
 from world import World
+from util import Stack, Queue
+from graphRooms import roomGraph1, roomGraph2, roomGraph3, roomGraph4, roomGraph5
 
 import random
 
